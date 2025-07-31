@@ -36,8 +36,9 @@ We welcome contributions from everyone! Here's how you can help make Awesome AI 
 
 1. **Navigate to the [`projects/`](https://github.com/teodorgross/awesome-ai/tree/main/projects) folder**
 2. **Click "Add file" → "Create new file"**
-3. **Name your file** with the tool name + `.md` extension (e.g., `chatgpt.md`)
-4. **Copy and paste the following template:**
+3. **Fork this repository**
+4. **Name your file** with the tool name + `.md` extension (e.g., `chatgpt.md`)
+5. **Copy and paste the following template:**
 
 ```markdown
 ---
