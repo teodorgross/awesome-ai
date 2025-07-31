@@ -2,7 +2,7 @@
 title: "Open WebUI"
 category: "AI Chat"
 description: "Self-hosted AI chat platform with Ollama and OpenAI API support, RAG, plugins, and more."
-website: "https://openwebui.com"
+website: "https://github.com/open-webui/open-webui"
 icon: "https://openwebui.com/logo.png"
 tags: ["self-hosted", "ollama", "openai", "rag", "plugin"]
 pricing: "Free"
