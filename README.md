@@ -2,9 +2,12 @@
 
 # 🌟 Awesome AI (.io)
 
+
 > A curated list of the best AI tools and projects for developers, designers, and AI enthusiasts
 
 [![Website](https://img.shields.io/badge/🌐_Visit-awesome--ai.io-blue?style=for-the-badge&color=4f46e5)](https://awesome-ai.io)
+
+This platform is currently in early development. More tools will be added soon as we grow our collection.
 
 ![Awesome AI Demo](https://raw.githubusercontent.com/teodorgross/awesome-ai/refs/heads/main/demo.gif)
 
