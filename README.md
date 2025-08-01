@@ -108,7 +108,7 @@ This template helps maintain consistency across all tool entries in the Awesome 
 - **💻 Code** - Programming assistants, code generation, development tools, debugging
 - **✍️ Writing** - Content creation, copywriting, text generation, editing tools
 - **🎥 Video** - Video generation, editing, analysis, motion graphics, streaming tools
-
+- **🕵️ Agent** – Task automation, autonomous agents, smart workflows, and background operations.
 ### Improving Existing Entries
 
 Found outdated information or want to improve a tool description?
