@@ -1,6 +1,6 @@
 ---
 title: "MemGPT (Letta)"
-category: "Agents"
+category: "Agent"
 description: "Stateful agents framework with memory, reasoning, and transparent long-term memory management"
 website: "https://github.com/cpacker/MemGPT"
 icon: "https://avatars.githubusercontent.com/u/177780362?s=48&v=4"
