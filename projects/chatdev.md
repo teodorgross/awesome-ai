@@ -1,6 +1,6 @@
 ---
 title: "ChatDev"
-category: "Agents"
+category: "Agent"
 description: "Virtual software company with AI agents in different roles - develop custom software using natural language"
 website: "https://github.com/openbmb/chatdev"
 icon: "https://github.com/OpenBMB/ChatDev/raw/main/misc/logo1.png"
