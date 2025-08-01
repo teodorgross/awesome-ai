@@ -7,14 +7,17 @@
 
 [![Website](https://img.shields.io/badge/🌐_Visit-awesome--ai.io-blue?style=for-the-badge&color=4f46e5)](https://awesome-ai.io)
 
-This platform is currently in early development. More tools will be added soon as we grow our collection.
-
-![Awesome AI Demo](https://raw.githubusercontent.com/teodorgross/awesome-ai/refs/heads/main/demo.gif)
-
 [![GitHub stars](https://img.shields.io/github/stars/teodorgross/awesome-ai?style=social)](https://github.com/teodorgross/awesome-ai/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/teodorgross/awesome-ai?style=social)](https://github.com/teodorgross/awesome-ai/network/members)
 [![GitHub issues](https://img.shields.io/github/issues/teodorgross/awesome-ai)](https://github.com/teodorgross/awesome-ai/issues)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+
+This platform is currently in early development. More tools will be added soon as we grow our collection.
+
+
+![Awesome AI Demo](https://raw.githubusercontent.com/teodorgross/awesome-ai/refs/heads/main/demo.gif)
+
+
 
 </div>
 
