@@ -1,6 +1,6 @@
 ---
 title: "AutoAgents"
-category: "Agents"
+category: "Agent"
 description: "Generate different roles for GPTs to form a collaborative entity for complex tasks"
 website: "https://github.com/Link-AGI/AutoAgents"
 icon: "https://github.com/Link-AGI/AutoAgents/raw/main/docs/resources/logo-autoagents.jpg"
