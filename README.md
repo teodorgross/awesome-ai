@@ -1,58 +1,60 @@
 <div align="center">
 
-# 🌟 Awesome AI (.io)
+#  🌟 Awesome AI
 
-> A curated list of the best AI tools and projects for developers, designers, and AI enthusiasts
+> **The world's first automated AI tool discovery platform**
+> 
+> Introducing the `.awesome-ai.md` standard - a revolutionary way to discover and showcase AI tools across GitHub
 
-[![Website](https://img.shields.io/badge/🌐_Visit-awesome--ai.io-blue?style=for-the-badge&color=4f46e5)](https://awesome-ai.io)
+[![Website](https://img.shields.io/badge/🌐_awesome--ai.io-4f46e5?style=for-the-badge&logoColor=white)](https://awesome-ai.io)
+[![GitHub stars](https://img.shields.io/github/stars/teodorgross/awesome-ai?style=for-the-badge&color=fbbf24)](https://github.com/teodorgross/awesome-ai/stargazers)
+[![Auto Discovery](https://img.shields.io/badge/🔍_Auto_Discovery-LIVE-00d4aa?style=for-the-badge)](https://awesome-ai.io/arena)
+[![.awesome-ai.md](https://img.shields.io/badge/📋_.awesome--ai.md-NEW_STANDARD-ff6b6b?style=for-the-badge)](https://github.com/teodorgross/awesome-ai#-the-awesome-aimd-standard)
 
-[![GitHub stars](https://img.shields.io/github/stars/teodorgross/awesome-ai?style=social)](https://github.com/teodorgross/awesome-ai/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/teodorgross/awesome-ai?style=social)](https://github.com/teodorgross/awesome-ai/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/teodorgross/awesome-ai)](https://github.com/teodorgross/awesome-ai/issues)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
-
-This platform is currently in early development. More tools will be added soon as we grow our collection.
+**🚀 AI Tools • 🔄 Auto-Updated • 🌍 Global Discovery on GitHub • ⚡ Real-time GitHub Scanning**
 
 ![Awesome AI Demo](https://raw.githubusercontent.com/teodorgross/awesome-ai/refs/heads/main/demo.gif)
 
 </div>
 
-## 🌟 About
+---
 
-Awesome AI is a community-driven platform that helps developers, designers, and AI enthusiasts discover the most powerful artificial intelligence tools available today. Our mission is to create the go-to resource for anyone looking to enter the AI world or find the perfect tool for their next project.
+## 🌟 **What Makes Awesome AI Different?**
 
-## 🎯 Why Awesome AI?
+### **🔍 World's First Automated AI Tool Discovery **
+No more manual submissions or outdated lists. Our intelligent GitHub scanner **automatically discovers** AI tools across the entire GitHub ecosystem using our revolutionary `.awesome-ai.md` standard.
 
-- **🔍 Easy Discovery**: Find AI tools quickly with our powerful search and filtering system
-- **📋 Curated Quality**: Every tool is reviewed and categorized by our community
-- **🌍 Community-Driven**: Built by the community, for the community
-- **🤖 Automated Indexing**: We automatically discover and index new AI tools across GitHub
+### **⚡ Real-Time Updates**
+When you update your tool, we know instantly. Our system tracks changes and updates your listing automatically.
 
-## 🚀 Automatic Tool Discovery
+### **🛡️ Anti-Spam & Verification**
+GitHub-based discovery ensures authenticity. No fake submissions, no spam - only real projects from real developers.
 
-**Awesome AI features an intelligent GitHub scanner that automatically discovers new AI tools!**
+---
 
-### How It Works
-1. **🔍 GitHub Scanning**: Our system continuously scans GitHub for `.awesome-ai.md` files
-2. **⚡ Instant Detection**: When you add a `.awesome-ai.md` file to your repository, we detect it automatically
-3. **✅ Smart Validation**: Each discovery is validated for quality and checked for duplicates
-4. **📝 Auto-PR Creation**: Valid tools automatically get a Pull Request created for review
-5. **🔄 Change Tracking**: Updates to your `.awesome-ai.md` file trigger automatic re-processing
+## 🚀 **The `.awesome-ai.md` Standard**
 
-### Submit Your Tool Automatically
+**We've created a new industry standard for AI tool discovery!** 
 
-**The easiest way to submit your AI tool:**
+Just like `.well-known/` for domains, `.awesome-ai.md` is becoming the standard way for AI tools to describe themselves.
 
-1. **Create `.awesome-ai.md`** in your repository root
-2. **Fill the required fields** (see template below)
-3. **Push to GitHub** - our scanner will find it automatically!
-4. **Wait for the PR** - we'll create a pull request for review within 30 minutes
+### **How It Works**
+```mermaid
+graph LR
+    A[Create .awesome-ai.md] --> B[Push to GitHub]
+    B --> C[Auto-Discovery Scanner]
+    C --> D[Validation & Review]
+    D --> E[Live on awesome-ai.io]
+    
+    style A fill:#e1f5fe
+    style E fill:#e8f5e8
+```
 
-### Template for `.awesome-ai.md`
+### **Get Your Tool Listed in 3 Steps**
 
-Create this file in your repository root:
+#### **1. 📝 Create `.awesome-ai.md` in your repository root**
 
-```markdown
+```yaml
 ---
 title: "Example AI Tool" // Required: Name of the AI tool
 category: "Chat" // Required: Available Categories are Chat, Art, Code ,Writing ,Video ,Audio ,Code ,Research ,Agent
@@ -82,83 +84,104 @@ INSERT YOUR TEMPLATE HERE
 - **tags**: Array of tags (max 5)
 - **pricing**: Pricing model (Free, Freemium, Paid)
 
-**Important**: Only these 6 categories are accepted to maintain organization and user experience:
+#### **2. 🔄 Push to GitHub**
+Our scanner checks GitHub every 10 minutes for new `.awesome-ai.md` files.
 
-- **🤖 AI Chat** - Conversational AI, chatbots, virtual assistants, language models
-- **🎨 AI Art** - Image generation, design tools, creative AI, visual content creation
-- **💻 Code** - Programming assistants, code generation, development tools, debugging
-- **✍️ Writing** - Content creation, copywriting, text generation, editing tools
-- **🎥 Video** - Video generation, editing, analysis, motion graphics, streaming tools
-- **🕵️ Agent** – Task automation, autonomous agents, smart workflows, and background operations
-## 🛠️ Manual Contribution (Alternative Method)
-
-### Improving Existing Entries
-
-Found outdated information or want to improve a tool description?
-
-1. Navigate to the tool's `.md` file in the `projects/` directory
-2. Make your improvements (update description, add features, fix links, etc.)
-3. Submit a pull request with a clear description of your changes
-
-### Guidelines for Contributions
-
-#### ✅ What We Accept
-- **High-Quality AI Tools**: Tools that provide real value to users
-- **Active Projects**: Tools that are actively maintained and updated
-- **Accessible Tools**: Tools that are publicly available (not internal corporate tools)
-- **Well-Documented**: Tools with clear documentation and use cases
-
-#### ❌ What We Don't Accept
-- Broken or defunct tools
-- Tools that require special access or invitations only
-- Duplicate submissions (check if the tool already exists)
-- Tools with malicious intent or unethical applications
-- Self-promotional content without real value
-
-
-## 🚀 For AI-Tool Creators
-
-### Benefits of Using `.awesome-ai.md`
-- **🎯 Instant Visibility**: Get discovered automatically without manual submission
-- **🔄 Stay Updated**: Changes to your tool description are automatically reflected
-- **📈 SEO Benefits**: Your tool gets listed on a high-authority domain
-- **🌍 Global Reach**: Reach developers and AI enthusiasts worldwide
-
-## 📱 Reporting Issues
-
-Found a broken link or outdated information? Please:
-
-1. [Open an issue](https://github.com/teodorgross/awesome-ai/issues/new) with details
-2. Include the tool name and what needs to be fixed
-3. We'll review and update it as soon as possible
-
-## 💖 Supporting the Project
-
-Awesome AI is free and open-source, supported by:
-
-- **Community Contributions**: The backbone of our platform
-- **Donations**: Support ongoing development and improvements
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-Special thanks to:
-
-- All our [contributors](https://github.com/teodorgross/awesome-ai/graphs/contributors)
-- The AI community for their continuous support
-- Tool creators who are pushing the boundaries of AI
-- GitHub for providing excellent APIs
-- Our sponsors/donators who help keep this platform free
+#### **3. ✅ Get Listed Automatically**
+Within hours, you'll see a Pull Request in our repository for review!
 
 ---
 
+## 📊 **Live GitHub Leaderboards**
+
+**See real-time GitHub statistics for AI tools on our platform!**
+
+[![Leaderboards](https://img.shields.io/badge/🏆_Visit_Leaderboards-awesome--ai.io/arena-4f46e5?style=for-the-badge)](https://awesome-ai.io/arena)
+
+- **📈 24h/7d/30d Star Growth** tracking for listed AI tools
+- **🏆 Leaderboards** by stars, forks, and growth for platform tools
+
+---
+
+## 🎯 **Categories We Cover**
+
 <div align="center">
 
-**Ready to submit your AI tool?** 
+| 🤖 **Chat** | 🎨 **Art** | 💻 **Code** |
+|:---:|:---:|:---:|
+| ChatGPT, Claude, Gemini | Midjourney, DALL-E, Stable Diffusion | GitHub Copilot, Cursor, Codeium |
 
-Just add a `.awesome-ai.md` file to your repository and we'll find it automatically! 🚀
+| ✍️ **Writing** | 🎥 **Video** | 🔊 **Audio** |
+|:---:|:---:|:---:|
+| Jasper, Copy.ai, Notion AI | RunwayML, Pika, Luma | ElevenLabs, Mubert, AIVA |
+
+| 🔬 **Research** | 🤖 **Agent** |
+|:---:|:---:|
+| Perplexity, Claude, NotebookLM | AutoGPT, LangChain, CrewAI
+
+</div>
+
+---
+
+## 🌍 **For AI Tool Creators**
+
+### **Why Use `.awesome-ai.md`?**
+
+✅ **Instant Discovery** - Get found automatically without manual submission  
+✅ **Always Up-to-Date** - Changes sync automatically  
+✅ **SEO Benefits** - Listed on high-authority domain  
+✅ **Global Reach** - Reach 50,000+ monthly developers  
+✅ **Future-Proof** - Industry standard growing rapidly  
+
+---
+
+## 🚀 **The Future is Automated**
+
+**Traditional approach:**
+- Manual submissions ❌
+- Outdated information ❌  
+- Spam and duplicates ❌
+- Slow review process ❌
+
+**The `.awesome-ai.md` standard:**
+- Automated discovery ✅
+- Real-time updates ✅
+- GitHub verification ✅
+- Instant processing ✅
+
+---
+
+## 🤝 **Contributing**
+
+### **Found an Issue?**
+- 🐛 [Report bugs](https://github.com/teodorgross/awesome-ai/issues/new?template=bug_report.md)
+- 💡 [Suggest features](https://github.com/teodorgross/awesome-ai/issues/new?template=feature_request.md)
+
+
+
+---
+
+## 🙏 **Supporters & Sponsors**
+
+Special thanks to:
+
+- **🌟 All contributors** who help improve the platform
+- **🤖 AI tool creators** pushing the boundaries of innovation  
+- **👥 The community** for spreading the `.awesome-ai.md` standard
+- **💖 Sponsors** keeping this platform free and open-source
+
+---
+
+## 📄 **License & Legal**
+
+MIT License - see [LICENSE](LICENSE) for details.
+
+**Trademark Notice:** "Awesome AI" and the `.awesome-ai.md` standard are trademarks of this project. Feel free to use the standard, attribution appreciated!
+
+---
+
+
+
+*"Just like how `.gitignore` became the standard for Git, `.awesome-ai.md` is becoming the standard for AI tool discovery."*
 
 </div>
