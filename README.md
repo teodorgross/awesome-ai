@@ -55,7 +55,7 @@ Create this file in your repository root:
 ```markdown
 ---
 title: "Example AI Tool" // Required: Name of the AI tool
-category: "AI Chat" // Required: Available Categories are AI Chat, AI Art, Code ,Writing ,Video ,Audio ,Code ,Research ,Agent
+category: "Chat" // Required: Available Categories are Chat, Art, Code ,Writing ,Video ,Audio ,Code ,Research ,Agent
 description: "This is an example AI tool template for demonstration purposes" // Required: Max 200 characters, brief description
 website: "https://example.com" // Required: Official website URL
 icon: "https://example.com" // Optional: PNG/JPG/SVG preferred, min 64x64px
@@ -77,7 +77,7 @@ INSERT YOUR TEMPLATE HERE
 - **description**: Brief description (max 160 chars)
 - **website**: Your tool's website URL
 - **github**: Your GitHub URL
-- **category**: Tool category (AI Chat, AI Art, Code, Writing, Video, Agent)
+- **category**: Tool category (Chat,Art, Code, Audio, Research, Writing, Video, Agent)
 - **icon**: Tool icon URL
 - **tags**: Array of tags (max 5)
 - **pricing**: Pricing model (Free, Freemium, Paid)
