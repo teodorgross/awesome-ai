@@ -54,7 +54,6 @@ Create this file in your repository root:
 
 ```markdown
 ---
----
 title: "Example AI Tool" // Required: Name of the AI tool
 category: "AI Chat" // Required: Available Categories are AI Chat, AI Art, Code ,Writing ,Video ,Audio ,Code ,Research ,Agent
 description: "This is an example AI tool template for demonstration purposes" // Required: Max 200 characters, brief description
