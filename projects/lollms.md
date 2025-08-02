@@ -1,6 +1,6 @@
 ---
 title: "LoLLMS WebUI"
-category: "AI Chat"
+category: "Chat"
 description: "Lord of Large Language and Multimodal Systems - comprehensive AI platform with 500+ expert personalities and 2500+ models"
 website: "https://github.com/ParisNeo/lollms-webui"
 icon: "[https://github.com/ParisNeo/lollms-webui/raw/main/favicon.ico](https://raw.githubusercontent.com/ParisNeo/lollms-webui/refs/heads/main/assets/logo.png)"

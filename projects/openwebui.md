@@ -1,7 +1,7 @@
 ---
 title: "Open WebUI"
-category: "AI Chat"
-description: "Self-hosted AI chat platform with Ollama and OpenAI API support, RAG, plugins, and more."
+category: "Chat"
+description: "Self-hosted Chat platform with Ollama and OpenAI API support, RAG, plugins, and more."
 website: "https://github.com/open-webui/open-webui"
 icon: "https://openwebui.com/logo.png"
 tags: ["self-hosted", "ollama", "openai", "rag", "plugin"]
@@ -10,7 +10,7 @@ pricing: "Free"
 
 # Open WebUI
 
-**Open WebUI** is a powerful, self-hosted AI chat interface designed for full offline use. It supports multiple LLM backends like **Ollama**, **OpenAI-compatible APIs**, and includes a built-in inference engine for Retrieval-Augmented Generation (RAG). Its modular design and plugin system make it ideal for custom deployments in enterprise and developer environments.
+**Open WebUI** is a powerful, self-hosted Chat interface designed for full offline use. It supports multiple LLM backends like **Ollama**, **OpenAI-compatible APIs**, and includes a built-in inference engine for Retrieval-Augmented Generation (RAG). Its modular design and plugin system make it ideal for custom deployments in enterprise and developer environments.
 
 ## Key Features
 

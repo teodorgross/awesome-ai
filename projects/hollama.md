@@ -1,6 +1,6 @@
 ---
 title: "Hollama"
-category: "AI Chat"
+category: "Chat"
 description: "Minimal LLM chat app that runs entirely in your browser with support for Ollama & OpenAI servers, vision models, and reasoning"
 website: "https://github.com/fmaclen/hollama"
 icon: ""
@@ -75,11 +75,11 @@ Hollama is a minimal LLM chat application that runs entirely in your browser, of
 ### Self-Hosting
 - Deploy using Docker for team or personal use
 - Customize the interface and configuration
-- Maintain complete control over your AI chat environment
+- Maintain complete control over your Chat environment
 
 ### Local Development
 - Clone the repository and run with standard web development tools
 - Built with modern web technologies for easy customization
 - Contribute to the open-source project
 
-Hollama strikes the perfect balance between simplicity and functionality, offering a premium AI chat experience while respecting user privacy and maintaining complete transparency through its open-source nature.
+Hollama strikes the perfect balance between simplicity and functionality, offering a premium Chat experience while respecting user privacy and maintaining complete transparency through its open-source nature.

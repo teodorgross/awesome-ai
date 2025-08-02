@@ -1,6 +1,6 @@
 ---
 title: "Discord AI Bot"
-category: "AI Chat"
+category: "Chat"
 description: "Discord chatbot integrating Ollama LLMs and Stable Diffusion for text generation and image creation in Discord servers"
 website: "https://github.com/238SAMIxD/discord-ai-bot"
 icon: ""

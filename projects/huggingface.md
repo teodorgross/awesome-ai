@@ -1,7 +1,7 @@
 ---
 title: "HuggingChat"
-category: "AI Chat"
-description: "Open-source chat interface by Hugging Face providing access to community's best AI chat models for everyone"
+category: "Chat"
+description: "Open-source chat interface by Hugging Face providing access to community's best Chat models for everyone"
 website: "https://huggingface.co/chat"
 icon: "https://huggingface.co/front/assets/huggingface_logo-noborder.svg"
 tags: ["huggingface", "open-source", "community", "multiple-models", "free"]
@@ -10,7 +10,7 @@ pricing: "Free"
 
 # HuggingChat
 
-Hugging Face's open-source chat interface that makes the community's best AI chat models available to everyone. Provides free access to state-of-the-art language models through an intuitive web-based chat interface.
+Hugging Face's open-source chat interface that makes the community's best Chat models available to everyone. Provides free access to state-of-the-art language models through an intuitive web-based chat interface.
 
 ## Key Features
 
@@ -191,4 +191,4 @@ Hugging Face's open-source chat interface that makes the community's best AI cha
 - Organizations preferring open-source solutions
 - Anyone interested in democratized AI access
 
-HuggingChat represents Hugging Face's commitment to democratizing AI access, providing everyone with the opportunity to experience and benefit from the community's best AI chat models without barriers or costs.
+HuggingChat represents Hugging Face's commitment to democratizing AI access, providing everyone with the opportunity to experience and benefit from the community's best Chat models without barriers or costs.

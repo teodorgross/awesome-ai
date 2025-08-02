@@ -42,7 +42,7 @@ A standalone ChatGPT integration extension for Jupyter Notebooks and IPython She
 
 - **Platform**: Jupyter Notebooks, IPython Shell, Google Colab
 - **Installation**: pip install ipython-gpt
-- **API**: OpenAI ChatGPT API
+- **API**: OpenChatGPT API
 - **Requirements**: OpenAI API key
 - **Magic Commands**: `%%chat`, `%chat_config`, `%chat_models`, `%chat_help`
 

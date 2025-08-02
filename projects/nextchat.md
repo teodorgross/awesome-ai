@@ -1,6 +1,6 @@
 ---
 title: "NextChat"
-category: "AI Chat"
+category: "Chat"
 description: "Light and fast AI assistant supporting Claude, DeepSeek, GPT-4 & Gemini with one-click deployment and cross-platform apps"
 website: "https://github.com/ChatGPTNextWeb/NextChat"
 icon: "https://avatars.githubusercontent.com/u/153288546?s=48&v=4"

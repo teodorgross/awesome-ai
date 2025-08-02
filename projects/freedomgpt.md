@@ -1,6 +1,6 @@
 ---
 title: "FreedomGPT"
-category: "AI Chat"
+category: "Chat"
 description: "React and Electron-based desktop app for running LLM models locally with offline privacy and chat interface"
 website: "https://github.com/ohmplatform/FreedomGPT"
 icon: ""

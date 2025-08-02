@@ -1,6 +1,6 @@
 ---
 title: "AnythingLLM"
-category: "AI Chat"
+category: "Chat"
 description: "All-in-one desktop & Docker AI application with built-in RAG, AI agents, no-code agent builder, MCP compatibility, and multi-user support"
 website: "https://anythingllm.com"
 icon: "https://avatars.githubusercontent.com/u/134426827?s=48&v=4"
@@ -116,7 +116,7 @@ AnythingLLM is the comprehensive all-in-one AI application that transforms any d
 ## Advanced Features
 
 ### Embeddable Chat Widget
-- **Website Integration**: Embed AI chat directly into your website or application
+- **Website Integration**: Embed Chat directly into your website or application
 - **Custom Branding**: White-label chat interface matching your brand identity
 - **API-Driven**: Full customization through comprehensive API endpoints
 - **Multi-Language**: Support for international websites and applications

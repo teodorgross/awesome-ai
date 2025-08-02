@@ -1,6 +1,6 @@
 ---
 title: "Sidellama"
-category: "AI Chat"
+category: "Chat"
 description: "Tiny browser extension for chatting with open-source language models with page context integration and persona customization"
 website: "https://github.com/gyopak/sidellama"
 icon: "https://raw.githubusercontent.com/gyopak/sidellama/refs/heads/master/public/images/sidellama.png"

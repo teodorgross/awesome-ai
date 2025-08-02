@@ -1,6 +1,6 @@
 ---
 title: "ExUI"
-category: "AI Chat"
+category: "Chat"
 description: "Simple, lightweight browser-based UI for local inference using ExLlamaV2 with EXL2, GPTQ, and FP16 model support"
 website: "https://github.com/turboderp/exui"
 icon: "https://raw.githubusercontent.com/turboderp-org/exui/refs/heads/master/static/gfx/avatar_unicorn.png"

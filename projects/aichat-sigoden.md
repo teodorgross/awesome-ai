@@ -1,6 +1,6 @@
 ---
 title: "AIChat"
-category: "AI Chat"
+category: "Chat"
 description: "All-in-one LLM CLI tool with Shell Assistant, Chat-REPL, RAG, AI Tools & Agents supporting 20+ providers"
 website: "https://github.com/sigoden/aichat"
 icon: ""

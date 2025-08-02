@@ -1,6 +1,6 @@
 ---
 title: "GPT Mobile"
-category: "AI Chat"
+category: "Chat"
 description: "Android chat app supporting multiple LLM providers simultaneously with BYOK approach and Material Design"
 website: "https://github.com/Taewan-P/gpt_mobile"
 icon: "https://raw.githubusercontent.com/Taewan-P/gpt_mobile/refs/heads/main/images/logo.png"

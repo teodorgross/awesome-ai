@@ -1,6 +1,6 @@
 ---
 title: "Chat"
-category: "AI Chat"
+category: "Chat"
 description: "Enterprise chat web app with multi-model AI support, user management, rate limiting, and team collaboration features"
 website: "https://github.com/swuecho/chat"
 icon: ""
@@ -15,7 +15,7 @@ pricing: "Free"
 ## Key Features
 
 **Multi-Model AI Support**
-- OpenAI ChatGPT integration (both OpenAI and Azure endpoints)
+- OpenChatGPT integration (both OpenAI and Azure endpoints)
 - Anthropic Claude support
 - Google Gemini integration  
 - Ollama host model compatibility for local deployments

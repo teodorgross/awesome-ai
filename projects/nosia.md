@@ -1,6 +1,6 @@
 ---
 title: "Nosia"
-category: "AI Chat"
+category: "Chat"
 description: "Easy-to-install RAG platform that allows you to run AI models on your own private data with Ollama integration"
 website: "https://github.com/nosia-ai/nosia"
 icon: "https://avatars.githubusercontent.com/u/172981152?s=48&v=4"

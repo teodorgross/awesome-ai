@@ -1,6 +1,6 @@
 ---
 title: "Painting Droid"
-category: "AI Art"
+category: "Chat"
 description: "Cross-platform AI-powered painting app inspired by MS Paint with plugin support and multiple AI model integrations"
 website: "https://github.com/mateuszmigas/painting-droid"
 icon: "https://raw.githubusercontent.com/mateuszmigas/painting-droid/refs/heads/main/assets/logo_big.webp"

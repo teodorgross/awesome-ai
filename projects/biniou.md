@@ -1,6 +1,6 @@
 ---
 title: "biniou"
-category: "AI Chat"
+category: "Chat"
 description: "Self-hosted WebUI for 30+ generative AI models covering text, image, audio, video, and 3D generation with offline capability"
 website: "https://github.com/Woolverine94/biniou"
 icon: "https://avatars.githubusercontent.com/u/146110286?s=48&v=4"

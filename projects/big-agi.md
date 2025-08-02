@@ -1,6 +1,6 @@
 ---
 title: "big-AGI"
-category: "AI Chat"
+category: "Chat"
 description: "AI suite for professionals with multi-model chats, AI personas, advanced functions, and polished UX powered by 100+ models"
 website: "https://big-agi.com"
 icon: "https://libs.websoft9.com/Websoft9/logo/product/bigagi-websoft9.png"

@@ -1,6 +1,6 @@
 ---
 title: "ComfyUI"
-category: "AI Art"
+category: "Chat"
 description: "Node-based interface for Stable Diffusion with advanced workflow capabilities. Create complex AI image generation pipelines through visual programming."
 website: "https://github.com/comfyanonymous/ComfyUI"
 icon: ""
@@ -24,7 +24,7 @@ Perfect for advanced users, researchers, and professionals who need to:
 - Create complex multi-step image generation workflows
 - Experiment with different model combinations and techniques
 - Build automated image processing pipelines
-- Develop custom AI art generation systems
+- Develop custom Chat generation systems
 - Fine-tune generation parameters with precision control
 
 ## Getting Started

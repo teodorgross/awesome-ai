@@ -1,6 +1,6 @@
 ---
 title: "PyGPT"
-category: "AI Chat"
+category: "Chat"
 description: "All-in-one desktop AI assistant with 12 operation modes, multi-model support, plugins, and advanced features like vision, code interpreter"
 website: "https://pygpt.net"
 icon: ""

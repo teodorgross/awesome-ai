@@ -1,6 +1,6 @@
 ---
 title: "LibreChat"
-category: "AI Chat"
+category: "Chat"
 description: "Enhanced ChatGPT clone with multi-AI provider support, agents, code interpreter, artifacts, and enterprise-grade multi-user authentication"
 website: "https://www.librechat.ai"
 icon: "https://raw.githubusercontent.com/danny-avila/LibreChat/refs/heads/main/client/public/assets/logo.svg"
@@ -10,7 +10,7 @@ pricing: "Free"
 
 # LibreChat
 
-LibreChat is the ultimate open-source AI chat platform that combines the familiar ChatGPT interface with enhanced features and support for multiple AI providers. Designed for both individual users and enterprise deployments, it offers comprehensive customization, security, and scalability while maintaining complete control over your AI conversations.
+LibreChat is the ultimate open-source Chat platform that combines the familiar ChatGPT interface with enhanced features and support for multiple AI providers. Designed for both individual users and enterprise deployments, it offers comprehensive customization, security, and scalability while maintaining complete control over your AI conversations.
 
 ## Key Features
 
@@ -74,7 +74,7 @@ LibreChat is the ultimate open-source AI chat platform that combines the familia
 
 ## Use Cases
 
-**Enterprise Teams**: Deploy secure, private AI chat infrastructure with comprehensive user management, cost tracking, and compliance features. Ideal for organizations requiring data sovereignty and custom AI integrations.
+**Enterprise Teams**: Deploy secure, private Chat infrastructure with comprehensive user management, cost tracking, and compliance features. Ideal for organizations requiring data sovereignty and custom AI integrations.
 
 **Developers**: Build and prototype AI applications with extensive API support, custom endpoints, and code execution capabilities. Perfect for integrating AI into existing workflows and applications.
 

@@ -1,6 +1,6 @@
 ---
 title: "ChatGPT"
-category: "AI Chat"
+category: "Chat"
 description: "Advanced conversational AI by OpenAI. Engage in natural conversations, get help with tasks, creative writing, and problem-solving."
 website: "https://chat.openai.com"
 icon: ""

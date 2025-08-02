@@ -1,7 +1,7 @@
 ---
 title: "Lobe Chat"
-category: "AI Chat"
-description: "Modern open-source AI chat framework with multi-provider support, knowledge base, MCP plugins, artifacts, and one-click deployment"
+category: "Chat"
+description: "Modern open-source Chat framework with multi-provider support, knowledge base, MCP plugins, artifacts, and one-click deployment"
 website: "https://github.com/lobehub/lobe-chat"
 icon: "https://avatars.githubusercontent.com/u/131470832?s=48&v=4"
 tags: ["multi-provider", "knowledge-base", "plugins", "artifacts", "deployment"]
@@ -10,7 +10,7 @@ pricing: "Free"
 
 # Lobe Chat
 
-**Lobe Chat** is a cutting-edge, open-source AI chat framework that combines modern design with powerful functionality. Supporting 35+ AI providers, advanced knowledge management, plugin ecosystems, and seamless deployment options, it's designed for both developers and end-users seeking a comprehensive AI chat solution.
+**Lobe Chat** is a cutting-edge, open-source Chat framework that combines modern design with powerful functionality. Supporting 35+ AI providers, advanced knowledge management, plugin ecosystems, and seamless deployment options, it's designed for both developers and end-users seeking a comprehensive Chat solution.
 
 ## Key Features
 
@@ -145,4 +145,4 @@ pricing: "Free"
 - **Lobe i18n**: ChatGPT-powered internationalization tool
 - **Lobe Commit**: AI-powered Git commit message generator
 
-Lobe Chat represents the next generation of AI chat interfaces, combining powerful functionality with elegant design. Whether you're building a personal AI assistant or deploying enterprise-grade conversational AI, Lobe Chat provides the tools and flexibility needed for success in the rapidly evolving AI landscape.
+Lobe Chat represents the next generation of Chat interfaces, combining powerful functionality with elegant design. Whether you're building a personal AI assistant or deploying enterprise-grade conversational AI, Lobe Chat provides the tools and flexibility needed for success in the rapidly evolving AI landscape.

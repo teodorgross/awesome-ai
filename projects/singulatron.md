@@ -1,6 +1,6 @@
 ---
 title: "Singulatron"
-category: "AI Chat"
+category: "Chat"
 description: "Simple desktop AI interface to download and run LLMs locally with one-click setup and complete privacy"
 website: "https://singulatron.com/desktop-ai"
 icon: "https://singulatron.com/assets/singulatron_logo.svg"

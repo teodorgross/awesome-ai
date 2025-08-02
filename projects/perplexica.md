@@ -1,6 +1,6 @@
 ---
 title: "Perplexica"
-category: "AI Chat"
+category: "Chat"
 description: "Open-source AI-powered search engine that provides privacy-focused, real-time answers with sources. Alternative to Perplexity AI"
 website: "https://github.com/ItzCrazyKns/Perplexica"
 icon: "https://raw.githubusercontent.com/ItzCrazyKns/Perplexica/refs/heads/master/src/app/favicon.ico"

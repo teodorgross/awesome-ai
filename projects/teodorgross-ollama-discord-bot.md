@@ -1,6 +1,6 @@
 ---
 title: "Ollama Discord Bot"
-category: "AI Chat"
+category: "Chat"
 description: "Discord bot with local AI via Ollama, SearxNG web search, document analysis, and website summarization capabilities"
 website: "https://github.com/teodorgross/ollama_bot_discord"
 icon: "https://github.com/teodorgross.png"

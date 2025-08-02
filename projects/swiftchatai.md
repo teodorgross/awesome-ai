@@ -1,7 +1,7 @@
 ---
 title: "SwiftChat"
-category: "AI Chat"
-description: "Lightning-fast cross-platform AI chat app with React Native, powered by Amazon Bedrock with multimodal support"
+category: "Chat"
+description: "Lightning-fast cross-platform Chat app with React Native, powered by Amazon Bedrock with multimodal support"
 website: "https://github.com/aws-samples/swift-chat"
 icon: ""
 tags: ["react-native", "amazon-bedrock", "cross-platform", "multimodal", "aws"]
@@ -10,7 +10,7 @@ pricing: "Free"
 
 # SwiftChat
 
-SwiftChat is a lightning-fast, cross-platform AI chat application built with React Native and powered by Amazon Bedrock. With its minimalist design philosophy and robust privacy protection, it delivers real-time streaming conversations, AI image generation, and voice conversation capabilities across Android, iOS, and macOS platforms.
+SwiftChat is a lightning-fast, cross-platform Chat application built with React Native and powered by Amazon Bedrock. With its minimalist design philosophy and robust privacy protection, it delivers real-time streaming conversations, AI image generation, and voice conversation capabilities across Android, iOS, and macOS platforms.
 
 ## Key Features
 
@@ -46,7 +46,7 @@ SwiftChat is a lightning-fast, cross-platform AI chat application built with Rea
 
 **Developers**: Perfect for integrating AI capabilities into mobile applications with AWS infrastructure. The open-source codebase provides excellent learning material for React Native and AWS Bedrock integration.
 
-**Businesses**: Ideal for organizations already using AWS services who want a customizable, privacy-focused AI chat solution that can be deployed on their own infrastructure.
+**Businesses**: Ideal for organizations already using AWS services who want a customizable, privacy-focused Chat solution that can be deployed on their own infrastructure.
 
 **Students & Researchers**: Excellent for learning about multimodal AI applications, serverless architecture, and cross-platform mobile development.
 
@@ -72,4 +72,4 @@ SwiftChat is a lightning-fast, cross-platform AI chat application built with Rea
 - **AWS Lambda**: Cost-effective serverless option with Function URLs
 - **Local Development**: Run backend locally for testing and development
 
-SwiftChat represents a comprehensive solution for developers looking to build sophisticated AI chat applications with enterprise-grade AWS infrastructure while maintaining the flexibility of open-source development.
+SwiftChat represents a comprehensive solution for developers looking to build sophisticated Chat applications with enterprise-grade AWS infrastructure while maintaining the flexibility of open-source development.

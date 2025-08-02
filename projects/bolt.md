@@ -1,6 +1,6 @@
 ---
 title: "BoltAI"
-category: "AI Chat"
+category: "Chat"
 description: "Native macOS AI assistant integrating multiple LLMs directly into your workflow with zero context switching and custom AI assistants"
 website: "https://boltai.com"
 icon: "https://boltai.com/assets/app-icon-v4.png"

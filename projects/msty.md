@@ -1,7 +1,7 @@
 ---
 title: "Msty"
-category: "AI Chat"
-description: "Offline-first AI chat application with split chats, RAG, and unified access to local and online models"
+category: "Chat"
+description: "Offline-first Chat application with split chats, RAG, and unified access to local and online models"
 website: "https://msty.app/"
 icon: "https://docs.msty.app/icon.svg"
 tags: ["offline-first", "split-chat", "rag", "multimodel", "privacy"]

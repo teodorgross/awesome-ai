@@ -1,6 +1,6 @@
 ---
 title: "Witsy"
-category: "AI Chat"
+category: "Chat"
 description: "Desktop AI assistant with universal MCP client support, multi-provider integration, and productivity features like Prompt Anywhere"
 website: "https://github.com/nbonamy/witsy"
 icon: "https://raw.githubusercontent.com/nbonamy/witsy/main/assets/icon.png"

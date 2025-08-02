@@ -1,6 +1,6 @@
 ---
 title: "Ollama"
-category: "AI Chat"
+category: "Chat"
 description: "Run large language models locally on your machine with ease. Open-source tool for running LLMs like Llama, Mistral, and more offline."
 website: "https://ollama.com"
 icon: "https://ollama.com/public/ollama.png"

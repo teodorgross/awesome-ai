@@ -1,6 +1,6 @@
 ---
 title: "IconifyAI"
-category: "AI Art"
+category: "Chat"
 description: "AI-powered app icon generator that creates unique, professional icons in seconds with commercial rights included"
 website: "https://www.iconifyai.com"
 icon: "https://www.iconifyai.com/favicon.ico"
