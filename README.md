@@ -21,7 +21,7 @@
 
 ## 🌟 **What Makes Awesome AI Different?**
 
-### **🔍 World's First Automated AI Tool Discovery **
+### **🔍 World's First Automated AI Tool Discovery**
 No more manual submissions or outdated lists. Our intelligent GitHub scanner **automatically discovers** AI tools across the entire GitHub ecosystem using our revolutionary `.awesome-ai.md` standard.
 
 ### **⚡ Real-Time Updates**
@@ -185,3 +185,4 @@ MIT License - see [LICENSE](LICENSE) for details.
 *"Just like how `.gitignore` became the standard for Git, `.awesome-ai.md` is becoming the standard for AI tool discovery."*
 
 </div>
+
