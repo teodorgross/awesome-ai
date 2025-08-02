@@ -2,7 +2,6 @@
 
 # 🌟 Awesome AI (.io)
 
-
 > A curated list of the best AI tools and projects for developers, designers, and AI enthusiasts
 
 [![Website](https://img.shields.io/badge/🌐_Visit-awesome--ai.io-blue?style=for-the-badge&color=4f46e5)](https://awesome-ai.io)
@@ -14,10 +13,7 @@
 
 This platform is currently in early development. More tools will be added soon as we grow our collection.
 
-
 ![Awesome AI Demo](https://raw.githubusercontent.com/teodorgross/awesome-ai/refs/heads/main/demo.gif)
-
-
 
 </div>
 
@@ -30,88 +26,73 @@ Awesome AI is a community-driven platform that helps developers, designers, and 
 - **🔍 Easy Discovery**: Find AI tools quickly with our powerful search and filtering system
 - **📋 Curated Quality**: Every tool is reviewed and categorized by our community
 - **🌍 Community-Driven**: Built by the community, for the community
+- **🤖 Automated Indexing**: We automatically discover and index new AI tools across GitHub
 
-## 🛠️ How to Contribute
+## 🚀 Automatic Tool Discovery
 
-We welcome contributions from everyone! Here's how you can help make Awesome AI even better:
+**Awesome AI features an intelligent GitHub scanner that automatically discovers new AI tools!**
 
-### Adding a New AI Tool
+### How It Works
+1. **🔍 GitHub Scanning**: Our system continuously scans GitHub for `.awesome-ai.md` files
+2. **⚡ Instant Detection**: When you add a `.awesome-ai.md` file to your repository, we detect it automatically
+3. **✅ Smart Validation**: Each discovery is validated for quality and checked for duplicates
+4. **📝 Auto-PR Creation**: Valid tools automatically get a Pull Request created for review
+5. **🔄 Change Tracking**: Updates to your `.awesome-ai.md` file trigger automatic re-processing
 
-1. **Navigate to the [`projects/`](https://github.com/teodorgross/awesome-ai/tree/main/projects) folder**
-2. **Click "Add file" → "Create new file"**
-3. **Fork this repository**
-4. **Name your file** with the tool name + `.md` extension (e.g., `chatgpt.md`)
-5. **Copy and paste the following template:**
+### Submit Your Tool Automatically
+
+**The easiest way to submit your AI tool:**
+
+1. **Create `.awesome-ai.md`** in your repository root
+2. **Fill the required fields** (see template below)
+3. **Push to GitHub** - our scanner will find it automatically!
+4. **Wait for the PR** - we'll create a pull request for review within 30 minutes
+
+### Template for `.awesome-ai.md`
+
+Create this file in your repository root:
 
 ```markdown
 ---
+---
 title: "Example AI Tool" // Required: Name of the AI tool
-category: "AI Chat" // Required: Must be one of the 5 categories below
+category: "AI Chat" // Required: Available Categories are AI Chat, AI Art, Code ,Writing ,Video ,Audio ,Code ,Research ,Agent
 description: "This is an example AI tool template for demonstration purposes" // Required: Max 200 characters, brief description
 website: "https://example.com" // Required: Official website URL
-icon: "https://example.com" // Optional: PNG/JPG preferred, min 64x64px
+icon: "https://example.com" // Optional: PNG/JPG/SVG preferred, min 64x64px
 tags: ["example", "template", "demo", "tutorial", "placeholder"] // Optional: Freely selectable, max 5 displayed
 pricing: "Free" // Optional: Free/Freemium/Paid
+github: "Important"
 ---
 
 # Example AI Tool
 
 This is an example markdown file that demonstrates how to structure AI tool descriptions for the Awesome AI platform.
 
-## How to Use This Template
+INSERT YOUR TEMPLATE HERE
 
-1. **Copy this file** to create new tool entries
-2. **Update the front matter** with actual tool information
-3. **Replace the content** with real tool descriptions
-4. **Add appropriate tags** (maximum 5 will be displayed)
-5. **Include an icon URL** for visual representation
-
-## Front Matter Fields
-
-- `title`: The name of the AI tool (required)
-- `category`: Category (required - must be one of the 5 valid categories below)
-- `description`: Brief description of what the tool does (required - max 200 characters)
-- `website`: Official website URL (required)
-- `icon`: URL to the tool's icon/logo (optional - PNG/JPG preferred, min 64x64px)
-- `tags`: Array of relevant tags (optional - freely selectable, max 5 displayed)
-- `pricing`: Pricing model (optional - Free/Freemium/Paid)
-
-## Content Structure
-
-Write a comprehensive description of the tool, including:
-
-### Key Features
-- 🎯 Feature 1: Description
-- 🚀 Feature 2: Description
-- 💡 Feature 3: Description
-
-### Use Cases
-Explain who would benefit from this tool and how
-
-### Getting Started
-Provide basic instructions for new users
-
-### Pricing (if applicable)
-Mention pricing tiers or if it's free
-
-This template helps maintain consistency across all tool entries in the Awesome AI directory.
 ```
 
-5. **Fill in your tool's information** (replace the example data)
-6. **Scroll down and click "Propose new file"**
-7. **Create a Pull Request** with a brief description of the tool you're adding
-8. **Wait for review** - we'll check and merge your contribution!
+### Required Fields
+- **title**: Your tool's name
+- **description**: Brief description (max 160 chars)
+- **website**: Your tool's website URL
+- **github**: Your GitHub URL
+- **category**: Tool category (AI Chat, AI Art, Code, Writing, Video, Agent)
+- **icon**: Tool icon URL
+- **tags**: Array of tags (max 5)
+- **pricing**: Pricing model (Free, Freemium, Paid)
 
-### Categories (Choose ONE of the following 5)
-
-**Important**: Only these 5 categories are accepted to maintain organization and user experience:
+**Important**: Only these 6 categories are accepted to maintain organization and user experience:
 
 - **🤖 AI Chat** - Conversational AI, chatbots, virtual assistants, language models
 - **🎨 AI Art** - Image generation, design tools, creative AI, visual content creation
 - **💻 Code** - Programming assistants, code generation, development tools, debugging
 - **✍️ Writing** - Content creation, copywriting, text generation, editing tools
 - **🎥 Video** - Video generation, editing, analysis, motion graphics, streaming tools
-- **🕵️ Agent** – Task automation, autonomous agents, smart workflows, and background operations.
+- **🕵️ Agent** – Task automation, autonomous agents, smart workflows, and background operations
+## 🛠️ Manual Contribution (Alternative Method)
+
 ### Improving Existing Entries
 
 Found outdated information or want to improve a tool description?
@@ -136,7 +117,15 @@ Found outdated information or want to improve a tool description?
 - Self-promotional content without real value
 
 
-### Reporting Issues
+## 🚀 For AI-Tool Creators
+
+### Benefits of Using `.awesome-ai.md`
+- **🎯 Instant Visibility**: Get discovered automatically without manual submission
+- **🔄 Stay Updated**: Changes to your tool description are automatically reflected
+- **📈 SEO Benefits**: Your tool gets listed on a high-authority domain
+- **🌍 Global Reach**: Reach developers and AI enthusiasts worldwide
+
+## 📱 Reporting Issues
 
 Found a broken link or outdated information? Please:
 
@@ -151,18 +140,26 @@ Awesome AI is free and open-source, supported by:
 - **Community Contributions**: The backbone of our platform
 - **Donations**: Support ongoing development and improvements
 
-
-##  License
+## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-##  Acknowledgments
+## 🙏 Acknowledgments
 
 Special thanks to:
 
 - All our [contributors](https://github.com/teodorgross/awesome-ai/graphs/contributors)
 - The AI community for their continuous support
 - Tool creators who are pushing the boundaries of AI
+- GitHub for providing excellent APIs
 - Our sponsors/donators who help keep this platform free
 
 ---
+
+<div align="center">
+
+**Ready to submit your AI tool?** 
+
+Just add a `.awesome-ai.md` file to your repository and we'll find it automatically! 🚀
+
+</div>
