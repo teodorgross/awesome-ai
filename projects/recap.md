@@ -13,7 +13,8 @@ pricing: "Free"
 
 Recap is an open-source, privacy-focused, macOS-native application designed to automatically summarize meetings and audio content. Built for professionals who need to stay focused on their work while capturing important meeting highlights without compromising privacy.
 
-<img width="900" height="846" alt="github_export" src="https://github.com/user-attachments/assets/df798940-820c-46b6-b149-3a2771c7b5f3" />
+![Recap](https://github-production-user-asset-6210df.s3.amazonaws.com/19406683/473679190-df798940-820c-46b6-b149-3a2771c7b5f3.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250803%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250803T102409Z&X-Amz-Expires=300&X-Amz-Signature=de56ed6140a9a573f8a32f797c2ce2b650893984f991de65c1b8bbe2d43dfe65&X-Amz-SignedHeaders=host)
+
 
 ## Key Features
 
