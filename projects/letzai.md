@@ -5,7 +5,7 @@ description: "A platform that creates custom image generators trained on user-pr
 website: "https://letz.ai/"
 icon: "https://letz.ai/_next/image?url=%2FL.png&w=64&q=100"
 tags: ["custom-ai", "image-generation", "personalized-models", "photo-training", "ai-art"]
-pricing: "Unknown"
+pricing: "Freemium"
 ---
 
 # Letz AI
