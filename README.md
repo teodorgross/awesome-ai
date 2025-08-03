@@ -85,7 +85,7 @@ Within hours, you'll see a Pull Request in our repository for review!
 
 ---
 
-### **🔗 Method 2: Hidden Div Submission (Instant)**
+### **🔗 Method 2: Hidden Div Submission (Closed Source Projects)**
 
 **Perfect for websites without GitHub repositories!**
 
@@ -272,3 +272,4 @@ MIT License - see [LICENSE](LICENSE) for details.
 **Trademark Notice:** "Awesome AI (by Teodor Gross)", the `.awesome-ai.md` standard and features of this project are trademarks of this project. Feel free to use the standards, attribution appreciated!
 
 ---
+
