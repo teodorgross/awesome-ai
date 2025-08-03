@@ -174,25 +174,6 @@ Explain how your tool works...
 
 ---
 
-## 🎯 **Categories We Cover**
-
-<div align="center">
-
-| 🤖 **Chat** | 🎨 **Art** | 💻 **Code** |
-|:---:|:---:|:---:|
-| ChatGPT, Claude, Gemini | Midjourney, DALL-E, Stable Diffusion | GitHub Copilot, Cursor, Codeium |
-
-| ✍️ **Writing** | 🎥 **Video** | 🔊 **Audio** |
-|:---:|:---:|:---:|
-| Jasper, Copy.ai, Notion AI | RunwayML, Pika, Luma | ElevenLabs, Mubert, AIVA |
-
-| 🔬 **Research** | 🤖 **Agent** |
-|:---:|:---:|
-| Perplexity, Claude, NotebookLM | AutoGPT, LangChain, CrewAI
-
-</div>
-
----
 
 ## 🌍 **For AI Tool Creators**
 
@@ -272,4 +253,5 @@ MIT License - see [LICENSE](LICENSE) for details.
 **Trademark Notice:** "Awesome AI (by Teodor Gross)", the `.awesome-ai.md` standard and features of this project are trademarks of this project. Feel free to use the standards, attribution appreciated!
 
 ---
+
 
