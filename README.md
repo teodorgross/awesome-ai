@@ -56,13 +56,13 @@ graph LR
 
 ```yaml
 ---
-title: "Example AI Tool" // Required: Name of the AI tool
-category: "Chat" // Required: Available Categories are Chat, Art, Code ,Writing ,Video ,Audio ,Code ,Research ,Agent
-description: "This is an example AI tool template for demonstration purposes" // Required: Max 200 characters, brief description
-website: "https://example.com" // Required: Official website URL
-icon: "https://example.com" // Optional: PNG/JPG/SVG preferred, min 64x64px
-tags: ["example", "template", "demo", "tutorial", "placeholder"] // Optional: Freely selectable, max 5 displayed
-pricing: "Free" // Optional: Free/Freemium/Paid
+title: "Example AI Tool" 
+category: "Chat"
+description: "This is an example AI tool template for demonstration purposes"
+website: "https://example.com"
+icon: "https://example.com"
+tags: ["example", "template", "demo", "tutorial", "placeholder"]
+pricing: "Free"
 github: "Important"
 ---
 
@@ -185,4 +185,5 @@ MIT License - see [LICENSE](LICENSE) for details.
 *"Just like how `.gitignore` became the standard for Git, `.awesome-ai.md` is becoming the standard for AI tool discovery."*
 
 </div>
+
 
