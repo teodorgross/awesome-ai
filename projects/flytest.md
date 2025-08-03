@@ -5,7 +5,7 @@ description: "A tool to automate software testing using natural language inputs 
 website: "https://flytest.ai/"
 icon: "https://flytest.ai/favicon.ico"
 tags: ["software-testing", "automation", "no-code", "qa", "natural-language"]
-pricing: "Unknown"
+pricing: "Freemium"
 ---
 
 # FlyTest AI
