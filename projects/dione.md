@@ -1,12 +1,12 @@
 ---
-title: "Dione" // Required: Name of the AI tool
-category: "Research" // Required: Available Categories are Chat, Art, Code ,Writing ,Video ,Audio ,Code ,Research ,Agent
-description: "Dione lets you install complex apps with one click—no terminal or tech skills needed. Developers can distribute apps effortlessly using a simple JSON file. It's never been easier." // Required: Max 200 characters, brief description
-website: "https://getdione.app" // Required: Official website URL
-icon: "https://avatars.githubusercontent.com/u/193499709?s=200&v=4" // Optional: PNG/JPG/SVG preferred, min 64x64px
-tags: ["local-ai", "ai", "open-source", "desktop-app", "one-click"] // Optional: Freely selectable, max 5 displayed
-pricing: "Free" // Optional: Free/Freemium/Paid
-github: "https://github.com/dioneapp/dioneapp" //Important
+title: "Dione"
+category: "Research"
+description: "Dione lets you install complex apps with one click—no terminal or tech skills needed. Developers can distribute apps effortlessly using a simple JSON file. It's never been easier."
+website: "https://getdione.app"
+icon: "https://avatars.githubusercontent.com/u/193499709?s=200&v=4"
+tags: ["local-ai", "ai", "open-source", "desktop-app", "one-click"]
+pricing: "Free"
+github: "https://github.com/dioneapp/dioneapp"
 ---
 
 # Dione: Explore, Install, Innovate — in 1 Click
