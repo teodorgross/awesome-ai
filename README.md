@@ -10,7 +10,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/teodorgross/awesome-ai?style=for-the-badge&color=fbbf24)](https://github.com/teodorgross/awesome-ai/stargazers)
 [![Auto Discovery](https://img.shields.io/badge/🔍_Auto_Discovery-LIVE-00d4aa?style=for-the-badge)](https://awesome-ai.io/arena)
 [![.awesome-ai.md](https://img.shields.io/badge/📋_.awesome--ai.md-NEW_STANDARD-ff6b6b?style=for-the-badge)](https://github.com/teodorgross/awesome-ai#-the-awesome-aimd-standard)
-[![Hidden Div](https://img.shields.io/badge/🔗_Hidden_Div-INSTANT_SUBMIT-9333ea?style=for-the-badge)](https://awesome-ai.io/submit-info)
+[![Hidden Div](https://img.shields.io/badge/🔗_Hidden_Div-URL_SUBMIT-9333ea?style=for-the-badge)](https://awesome-ai.io/submit-info)
 
 **🚀 AI Tools • 🔄 Auto-Updated • ⚡ Real-time GitHub Scanning • 🔗 Instant URL Submission**
 
@@ -253,5 +253,6 @@ MIT License - see [LICENSE](LICENSE) for details.
 **Trademark Notice:** "Awesome AI (by Teodor Gross)", the `.awesome-ai.md` standard and features of this project are trademarks of this project. Feel free to use the standards, attribution appreciated!
 
 ---
+
 
 
