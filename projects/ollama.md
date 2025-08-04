@@ -6,6 +6,7 @@ website: "https://ollama.com"
 icon: "https://ollama.com/public/ollama.png"
 tags: ["local-llm", "open-source", "offline", "privacy", "self-hosted"]
 pricing: "Free"
+github: "https://github.com/ollama/ollama"
 ---
 
 # Ollama
