@@ -40,7 +40,6 @@ When you update your tool, we know instantly. Our system tracks changes and upda
 
 **We've created a new industry standard for AI tool discovery!** 
 
-Just like `.well-known/` for domains, `.awesome-ai.md` is becoming the standard way for AI tools to describe themselves.
 
 #### **How It Works**
 ```mermaid
@@ -253,6 +252,7 @@ MIT License - see [LICENSE](LICENSE) for details.
 **Trademark Notice:** "Awesome AI (by Teodor Gross)", the `.awesome-ai.md` standard and features of this project are trademarks of this project. Feel free to use the standards, attribution appreciated!
 
 ---
+
 
 
 
