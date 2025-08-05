@@ -249,9 +249,10 @@ Special thanks to:
 
 MIT License - see [LICENSE](LICENSE) for details.
 
-**Trademark Notice:** "Awesome AI (by Teodor Gross)", the `.awesome-ai.md` standard and features of this project are trademarks of this project. Feel free to use the standards, attribution appreciated!
+**Trademark Notice:** "Awesome AI (by Teodor Gross)", the `.awesome-ai.md` standard and features of this project are trademarks of this project. Feel free to use the standards, attribution appreciated.
 
 ---
+
 
 
 
