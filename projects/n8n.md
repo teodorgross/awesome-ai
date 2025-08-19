@@ -6,7 +6,7 @@ website: "https://n8n.io"
 icont: "https://n8n.io/favicon.ico" # Optional
 github: "https://github.com/n8n-io/n8n"
 tags: ["automation", "workflow", "integration", "AI", "open-source"]
-pricing: "[Free|Freemium|Paid]"
+pricing: "Free"
 ---
 
 # n8n
